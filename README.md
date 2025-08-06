@@ -40,5 +40,3 @@ This repository contains the tasks completed as part of my weekly learnings.
 <img width="1902" height="877" alt="myth" src="https://github.com/user-attachments/assets/879e3fd8-1ab3-49ec-85e5-645cb1bd7ed2" />
 
 
-```bash
-pip install -r requirements.txt
