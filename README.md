@@ -1,12 +1,12 @@
-#  Weekly Progress
+#  Daily Progress
 
-This repository contains the tasks completed as part of my weekly learnings.
+This repository contains the tasks completed as part of my daily learnings.
 
 ---
 
-## 📅 Week-wise Summary
+## 📅 Day-wise Summary
 
-### ✅ Week 1: To-Do List App using Streamlit
+### ✅ Day 1: To-Do List App using Streamlit
 
 - Built a fully functional To-Do List application using **Streamlit**.
 - Features:
@@ -16,7 +16,7 @@ This repository contains the tasks completed as part of my weekly learnings.
   <img width="1912" height="882" alt="tasktrek" src="https://github.com/user-attachments/assets/e6b53fa0-9576-455a-aa06-79b964dbde30" />
 
 
-### ✅ Week 2: AWS Services — S3, EC2, Lambda
+### ✅ Day 2: AWS Services — S3, EC2, Lambda
 
 - 🔸 **S3 Bucket:**
   - Created and uploaded folders/files to AWS S3.
@@ -26,7 +26,7 @@ This repository contains the tasks completed as part of my weekly learnings.
   - Developed a basic Python function deployed using AWS Lambda.
 
 
-### ✅ Week 3: Myth Buster using Groq API + LangChain
+### ✅ Day 3: Myth Buster using Groq API + LangChain
 
 - Built an AI chatbot that verifies common myths using:
   - 📚 Wikipedia (via LangChain wrapper)
