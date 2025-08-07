@@ -45,9 +45,9 @@ This repository contains the tasks completed as part of my daily learnings.
 - Extract text from PDF, embed it, index it with FAISS, and use LLM to answer user queries.
 Features
 - Upload any **PDF** file
-- Automatic **text chunking**
-- **Semantic search** using FAISS
-- LLM-powered answers with **Groq LLaMA3**
-- Interactive **Streamlit UI**
-- Displays **retrieved context chunks**
+  - Automatic **text chunking**
+  - **Semantic search** using FAISS
+  - LLM-powered answers with **Groq LLaMA3**
+  - Interactive **Streamlit UI**
+  - Displays **retrieved context chunks**
 <img width="1907" height="887" alt="image" src="https://github.com/user-attachments/assets/7118380a-3817-431c-a492-a4d176b922a9" />
