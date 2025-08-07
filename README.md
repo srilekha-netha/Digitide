@@ -51,3 +51,14 @@ This repository contains the tasks completed as part of my daily learnings.
   - Interactive **Streamlit UI**
   - Displays **retrieved context chunks**
 <img width="1907" height="887" alt="image" src="https://github.com/user-attachments/assets/7118380a-3817-431c-a492-a4d176b922a9" />
+
+### ✅ Additional Task: AWS Lambda + Amazon Bedrock (Prompt-Response Integration)
+
+As part of the additional task given, I successfully implemented a Lambda function that interacts with Amazon Bedrock to send a prompt and receive a response.
+
+#### 🔧 Tools & Technologies:
+- AWS Lambda
+- Amazon Bedrock (`meta.llama3-70b-instruct-v1:0`)
+- Python (`boto3`)
+- API Gateway (for external trigger)
+
