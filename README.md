@@ -43,8 +43,8 @@ This repository contains the tasks completed as part of my daily learnings.
 
 - Build a simple PDF-based RAG chatbot using LangChain and Groq API.  
 - Extract text from PDF, embed it, index it with FAISS, and use LLM to answer user queries.
-Features
-- Upload any **PDF** file
+- Features
+  - Upload any **PDF** file
   - Automatic **text chunking**
   - **Semantic search** using FAISS
   - LLM-powered answers with **Groq LLaMA3**
