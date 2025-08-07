@@ -18,20 +18,20 @@ This repository contains the tasks completed as part of my daily learnings.
 
 ### ✅ Day 2: AWS Services — S3, EC2, Lambda
 
-- 🔸 **S3 Bucket:**
+- **S3 Bucket:**
   - Created and uploaded folders/files to AWS S3.
-- 🔸 **EC2 Instance:**
+- **EC2 Instance:**
   - Launched a virtual machine on AWS EC2.
-- 🔸 **Lambda Function:**
+- **Lambda Function:**
   - Developed a basic Python function deployed using AWS Lambda.
 
 
 ### ✅ Day 3: Myth Buster using Groq API + LangChain
 
 - Built an AI chatbot that verifies common myths using:
-  - 📚 Wikipedia (via LangChain wrapper)
-  - 🧠 Groq API with `meta-llama/llama-4-scout-17b-16e-instruct`
-  - 💬 Natural language prompting
+  - Wikipedia (via LangChain wrapper)
+  - Groq API with `meta-llama/llama-4-scout-17b-16e-instruct`
+  - Natural language prompting
 - Tech Stack:
   - LangChain
   - Groq Cloud LLM
@@ -41,13 +41,13 @@ This repository contains the tasks completed as part of my daily learnings.
 
 ### ✅ Day 4: PDF RAG Chatbot
 
-> Build a simple PDF-based RAG chatbot using LangChain and Groq API.  
-> Extract text from PDF, embed it, index it with FAISS, and use LLM to answer user queries.
-🚀 Features
-- 📤 Upload any **PDF** file
-- ✂️ Automatic **text chunking**
-- 📚 **Semantic search** using FAISS
-- 🤖 LLM-powered answers with **Groq LLaMA3**
-- ⚡ Interactive **Streamlit UI**
-- 🔍 Displays **retrieved context chunks**
+- Build a simple PDF-based RAG chatbot using LangChain and Groq API.  
+- Extract text from PDF, embed it, index it with FAISS, and use LLM to answer user queries.
+Features
+- Upload any **PDF** file
+- Automatic **text chunking**
+- **Semantic search** using FAISS
+- LLM-powered answers with **Groq LLaMA3**
+- Interactive **Streamlit UI**
+- Displays **retrieved context chunks**
 <img width="1907" height="887" alt="image" src="https://github.com/user-attachments/assets/7118380a-3817-431c-a492-a4d176b922a9" />
