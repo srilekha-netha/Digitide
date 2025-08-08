@@ -62,3 +62,31 @@ As part of the additional task given, I successfully implemented a Lambda functi
 - Python (`boto3`)
 - API Gateway (for external trigger)
 
+### 📚 Assignment 3 & 4 – Rainbow Formation, Text Splitting, Poem Generator
+
+#### Rainbow Formation
+
+- Accepts custom prompts or uses default: _"Explain how rainbows are formed"_
+- Uses **Groq LLM (LLaMA 3)** for generating explanations
+- Displays AI explanation in clean paragraphs
+- Generates a **vertical flowchart** visualizing the rainbow formation process
+- Provides tips and fun facts about light, reflection, and dispersion
+<img width="1910" height="1015" alt="r11" src="https://github.com/user-attachments/assets/c270ee1d-f869-48f2-a882-84636d909562" />
+<img width="1918" height="1020" alt="r12" src="https://github.com/user-attachments/assets/c8feeeb7-8327-4325-9995-354741039011" />
+
+#### Poem Generator
+
+Users can input their poem preferences:
+- **Topic** – e.g., love, rain, friendship, stars
+- **Tone** – emotional, funny, romantic, etc.
+- **Length** – number of lines
+  <img width="1915" height="886" alt="poem" src="https://github.com/user-attachments/assets/6cb81880-595d-4750-8a8b-afbb6d381f57" />
+
+
+#### Text Splitter
+
+- Loads text with `TextLoader` (for `.txt`) or `PyPDFLoader` (for `.pdf`)
+- Splits documents into overlapping chunks for processing
+- Prints the total number of chunks generated
+
+
