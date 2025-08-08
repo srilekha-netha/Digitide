@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "ABSKQmVkcm9ja0FQSUtleS1iZ3AwLWF0LTM2MTkxMzY4NjcxNzpiQ0NUSjBMOFlOeEllVllLbzhHMTIrQTRrd2swaHg5elVSL0FPb3dDS1ZnY3J6T0VmTUk2Y3pxSGR6UT0="
+API_KEY = " "
 ENDPOINT = "https://bedrock-runtime.ap-south-1.amazonaws.com/model/meta.llama3-8b-instruct-v1:0/invoke"
 
 def clean_llama_output(raw_output):
@@ -43,3 +43,4 @@ def get_diet_advice(user_input):
 # Optional test
 if __name__ == "__main__":
     print(get_diet_advice("How can I reduce belly fat naturally?"))
+
