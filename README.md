@@ -92,9 +92,10 @@ Users can input their poem preferences:
 # Dietician Health Chatbot (Amazon Bedrock + Streamlit)
 ## Features
 
-- 💬 Real-time chat interface using Bedrock LLM
-- ✅ Clear Chat button to reset conversation
-- 📄 Export chat as **PDF** or **TXT**
-- 📚 Sidebar with static health & nutrition tips
+- Real-time chat interface using Bedrock LLM
+- Clear Chat button to reset conversation
+- Export chat as **PDF** or **TXT**
+- Sidebar with static health & nutrition tips
 
+<img width="1916" height="893" alt="bedrock" src="https://github.com/user-attachments/assets/5c71c5f5-f742-4fa3-ad67-3b5d51ae9e10" />
 
