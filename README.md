@@ -89,4 +89,12 @@ Users can input their poem preferences:
 - Splits documents into overlapping chunks for processing
 - Prints the total number of chunks generated
 
+# Dietician Health Chatbot (Amazon Bedrock + Streamlit)
+## Features
+
+- 💬 Real-time chat interface using Bedrock LLM
+- ✅ Clear Chat button to reset conversation
+- 📄 Export chat as **PDF** or **TXT**
+- 📚 Sidebar with static health & nutrition tips
+
 
